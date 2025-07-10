@@ -4,6 +4,7 @@
 // Pista: En el ejercicio anterior, declaramos valores en las variables.
 // Ahora nos toca pedir datos al usuario, por lo que usaremos prompt-sync 
 // para solicitar esta información.
+
 const prompt = require('prompt-sync')();
 
 //1. Pide al usuario que ingrese su nombre.
